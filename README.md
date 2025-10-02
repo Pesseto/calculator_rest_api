@@ -55,7 +55,7 @@ This will start:
 > • `./rest/logs/*.log`  
 > • `./calculator/logs/*.log`
 
-### 3) Try it in a new terminal
+### 3) Try it
 ```bash
 curl -i -w "\n" 'http://localhost:8080/sum?a=2.5&b=3.7'
 curl -i -w "\n" 'http://localhost:8080/sub?a=5&b=3'
