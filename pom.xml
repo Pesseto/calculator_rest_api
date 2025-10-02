@@ -17,7 +17,7 @@
   </parent>
 
   <properties>
-    <java.version>25</java.version>
+    <java.version>21</java.version>
   </properties>
 
   <modules>
@@ -34,6 +34,5 @@
         </plugin>
       </plugins>
     </pluginManagement>
-    <finalName>rest</finalName> 
   </build>
 </project>
